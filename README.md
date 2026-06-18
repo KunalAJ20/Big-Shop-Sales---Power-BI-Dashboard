@@ -15,7 +15,7 @@ Because the raw data only contained foundational metrics (unit cost and items so
    * Sum of Shipping Costs
    * Total Calculated Revenue
    * Total Net Margin
-   * 
+    
  * **Slicers:** Positioned as user-friendly **Drop-down**
    
  * **Distribution & Breakdown Charts (Pie & Donut Charts):**
@@ -26,14 +26,13 @@ Because the raw data only contained foundational metrics (unit cost and items so
      
  * **Customer Analysis (Bar/Column Chart):** Evaluates total order volumes (*Sum of No. Items*) distributed by client portfolios.
  
- * **Time-Series & Financial Trends (Advanced Column & Line Visuals):**
 
   * **Clustered Column Chart:** Compares *Item Cost*, *Margin*, and *Shipping Cost* variations aggregated by **Year** and **Month**.
-  * 
+    
    * **Line and Clustered Column Chart:** Maps *Total Revenue* and *Shipping Cost* as columns alongside *Total Margin* as a trend line to measure individual **Salesperson** performance.
-   * 
+    
    * **Trend Chart:** Displays the velocity of inventory volume (*Sum of No. Items*) over chronological time frames.
-   * 
+    
 ### 3. Key Results & Insights (Data-Backed)
 
  * **Overall Scale:** The business generated **$2,411,789.32** in total revenue across **8,566 items sold**, yielding a net profit margin of **$2,291,199.85**
